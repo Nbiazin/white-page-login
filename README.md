@@ -22,8 +22,3 @@ Esta é uma página de login simples e moderna, desenvolvida com HTML e CSS, e q
 - **Formulário de Login:** Campo para inserção do nome de usuário e senha, com opção para lembrar o login e recuperação de senha.
 - **Animações:** Efeitos visuais suaves ao interagir com elementos da página, como aumento de tamanho e mudança de cor de fundo.
 
-## Como Usar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/white-page-login.git
